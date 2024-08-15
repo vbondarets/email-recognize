@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Michael Scott",
+        "email": "michael.scott@dundermifflin.com",
+        "id": 101
+    },
+    {
+        "name": "Dwight Schrute",
+        "email": "dwight.schrute@dundermifflin.com",
+        "id": 102
+    },
+    {
+        "name": "Jim Halpert",
+        "email": "jim.halpert@dundermifflin.com",
+        "id": 103
+    },
+    {
+        "name": "Pam Beesly",
+        "email": "pam.beesly@dundermifflin.com",
+        "id": 104
+    },
+    {
+        "name": "Stanley Hudson",
+        "email": "stanley.hudson@dundermifflin.com",
+        "id": 105
+    },
+    {
+        "name": "Dwight Schrute",
+        "email": "dwight.schrute@dundermifflin.com",
+        "id": 106
+    },
+    {
+        "name": "Pam Beesly",
+        "email": "pam.beesly@dundermifflin.com",
+        "id": 107
+    },
+    {
+        "name": "Rayan Govard",
+        "email": "rayan.gov121@dundermifflin.com",
+        "id": 108
+    }
+]
